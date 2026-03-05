@@ -1,4 +1,5 @@
 # JOIS 2022
+[![DOI](https://zenodo.org/badge/1173615346.svg)](https://doi.org/10.5281/zenodo.18880776)
 
 Expedition from 15/09/2022 – 14/10/2022 on the Louis St. Laurent. Departed Cambridge Bay, Nunavut, Canada. Returned to Kugluktuk, Nunavut, Canada.
 
